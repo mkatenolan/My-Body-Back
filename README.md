@@ -84,3 +84,10 @@ More details [here](https://github.com/fac-17/My-Body-Back/wiki/Build-Sprint-1)
 * re-organised file structure 
 
 
+### What still needs work
+
+* Responsiveness -- We went for a mobile-first design as the majority of our user group would be using the app on a mobile. The desktop version needs some adapting. 
+* Editable & downloadable appointment card -- one of the features is a card that users can take to their doctor's appointment. We would have liked to make this editable. 
+* Expand the content management -- we used the Airtable API as a database/CMS for our PO to add extra resources to the app in order to create a little more flexibility. This was build as a proof of concept and could be expanded across the app. 
+
+
